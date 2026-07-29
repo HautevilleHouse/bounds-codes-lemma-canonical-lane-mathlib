@@ -1,0 +1,15 @@
+import BoundsCodesLemmaCanonicalLaneLean.AdmissibleClass
+import BoundsCodesLemmaCanonicalLaneLean.BridgeLemmas
+import BoundsCodesLemmaCanonicalLaneLean.GateLemmas
+import BoundsCodesLemmaCanonicalLaneLean.CodingBoundsPackage
+import BoundsCodesLemmaCanonicalLaneLean.AsymptoticRatePackage
+import BoundsCodesLemmaCanonicalLaneLean.ConstantWeightPackage
+import BoundsCodesLemmaCanonicalLaneLean.FinalTheorem
+
+namespace HautevilleHouse
+namespace BoundsCodesLemmaCanonicalLaneLean
+
+-- Root module for Bounds Codes Lemma Canonical Lane Lean package.
+
+end BoundsCodesLemmaCanonicalLaneLean
+end HautevilleHouse
